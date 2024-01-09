@@ -1,0 +1,2036 @@
+{
+  "FC Barcelona": {
+    "league": "LaLiga",
+    "id": 1708,
+    "tactics": {
+      "formation": "433",
+      "height": 85,
+      "length": 75,
+      "width": 60,
+      "pressing": "Balanced Pressure",
+      "marking": "Zonal Marking",
+      "timeWasting": false,
+      "offsideTrap": true,
+      "offensiveStyle": "Possession",
+      "transition": "Slow",
+      "corners": 8,
+      "fullbacks": "Wing-Back"
+    }
+  },
+  "Real Madrid": {
+    "league": "LaLiga",
+    "id": 1736,
+    "tactics": {
+      "formation": "41212",
+      "height": 85,
+      "length": 70,
+      "width": 55,
+      "pressing": "Balanced Pressure",
+      "marking": "Zonal Marking",
+      "timeWasting": false,
+      "offsideTrap": true,
+      "offensiveStyle": "Direct Passing",
+      "transition": "Medium",
+      "corners": 8,
+      "fullbacks": "Wing-Back"
+    }
+  },
+  "Atletico Madrid": {
+    "league": "LaLiga",
+    "id": 1687,
+    "tactics": {
+      "formation": "532",
+      "height": 35,
+      "length": 55,
+      "width": 25,
+      "pressing": "Drop Back",
+      "marking": "Man Marking",
+      "timeWasting": false,
+      "offsideTrap": false,
+      "offensiveStyle": "Long Ball",
+      "transition": "Fast",
+      "corners": 7,
+      "fullbacks": "Full-Back"
+    }
+  },
+  "Sevilla": {
+    "league": "LaLiga",
+    "id": 1759,
+    "tactics": {
+      "formation": "4231",
+      "height": 70,
+      "length": 60,
+      "width": 90,
+      "pressing": "Constant Pressure",
+      "marking": "Zonal Marking",
+      "timeWasting": false,
+      "offsideTrap": true,
+      "offensiveStyle": "Long Ball",
+      "transition": "Slow",
+      "corners": 8,
+      "fullbacks": "Wing-Back"
+    }
+  },
+  "Villarreal": {
+    "league": "LaLiga",
+    "id": 1777,
+    "tactics": {
+      "formation": "442",
+      "height": 60,
+      "length": 65,
+      "width": 50,
+      "pressing": "Balanced Pressure",
+      "marking": "Zonal Marking",
+      "timeWasting": false,
+      "offsideTrap": true,
+      "offensiveStyle": "Possession",
+      "transition": "Medium",
+      "corners": 8,
+      "fullbacks": "Full-Back"
+    }
+  },
+  "Valencia": {
+    "league": "LaLiga",
+    "id": 1775,
+    "tactics": {
+      "formation": "442",
+      "height": 40,
+      "length": 35,
+      "width": 60,
+      "pressing": "Drop Back",
+      "marking": "Zonal Marking",
+      "timeWasting": false,
+      "offsideTrap": false,
+      "offensiveStyle": "Wing Play",
+      "transition": "Fast",
+      "corners": 7,
+      "fullbacks": "Defensive Full-Back"
+    }
+  },
+  "Real Sociedad": {
+    "league": "LaLiga",
+    "id": 1742,
+    "tactics": {
+      "formation": "433",
+      "height": 55,
+      "length": 45,
+      "width": 45,
+      "pressing": "Balanced Pressure",
+      "marking": "Man Marking",
+      "timeWasting": false,
+      "offsideTrap": true,
+      "offensiveStyle": "Possession",
+      "transition": "Slow",
+      "corners": 8,
+      "fullbacks": "Full-Back"
+    }
+  },
+  "Athletic Bilbao": {
+    "league": "LaLiga",
+    "id": 1664,
+    "tactics": {
+      "formation": "4231",
+      "height": 60,
+      "length": 55,
+      "width": 80,
+      "pressing": "Constant Pressure",
+      "marking": "Man Marking",
+      "timeWasting": false,
+      "offsideTrap": true,
+      "offensiveStyle": "Wing Play",
+      "transition": "Medium",
+      "corners": 8,
+      "fullbacks": "Wing-Back"
+    }
+  },
+  "Real Betis": {
+    "league": "LaLiga",
+    "id": 1733,
+    "tactics": {
+      "formation": "41212",
+      "height": 60,
+      "length": 65,
+      "width": 60,
+      "pressing": "Constant Pressure",
+      "marking": "Zonal Marking",
+      "timeWasting": false,
+      "offsideTrap": true,
+      "offensiveStyle": "Possession",
+      "transition": "Slow",
+      "corners": 8,
+      "fullbacks": "Full-Back"
+    }
+  },
+  "Espanyol": {
+    "league": "LaLiga",
+    "id": 1725,
+    "tactics": {
+      "formation": "433",
+      "height": 45,
+      "length": 55,
+      "width": 30,
+      "pressing": "Balanced Pressure",
+      "marking": "Man Marking",
+      "timeWasting": false,
+      "offsideTrap": false,
+      "offensiveStyle": "Direct Passing",
+      "transition": "Fast",
+      "corners": 7,
+      "fullbacks": "Full-Back"
+    }
+  },
+  "Celta de Vigo": {
+    "league": "LaLiga",
+    "id": 1724,
+    "tactics": {
+      "formation": "433",
+      "height": 60,
+      "length": 55,
+      "width": 55,
+      "pressing": "Balanced Pressure",
+      "marking": "Zonal Marking",
+      "timeWasting": false,
+      "offsideTrap": false,
+      "offensiveStyle": "Possession",
+      "transition": "Medium",
+      "corners": 7,
+      "fullbacks": "Wing-Back"
+    }
+  },
+  "Getafe": {
+    "league": "LaLiga",
+    "id": 1710,
+    "tactics": {
+      "formation": "541",
+      "height": 40,
+      "length": 60,
+      "width": 30,
+      "pressing": "Drop Back",
+      "marking": "Man Marking",
+      "timeWasting": false,
+      "offsideTrap": false,
+      "offensiveStyle": "Direct Passing",
+      "transition": "Fast",
+      "corners": 5,
+      "fullbacks": "Full-Back"
+    }
+  },
+  "Osasuna": {
+    "league": "LaLiga",
+    "id": 1685,
+    "tactics": {
+      "formation": "532",
+      "height": 60,
+      "length": 40,
+      "width": 60,
+      "pressing": "Constant Pressure",
+      "marking": "Zonal Marking",
+      "timeWasting": false,
+      "offsideTrap": true,
+      "offensiveStyle": "Long Ball",
+      "transition": "Medium",
+      "corners": 8,
+      "fullbacks": "Defensive Full-Back"
+    }
+  },
+  "Almeria": {
+    "league": "LaLiga",
+    "id": 1661,
+    "tactics": {
+      "formation": "4141",
+      "height": 40,
+      "length": 35,
+      "width": 25,
+      "pressing": "Balanced Pressure",
+      "marking": "Man Marking",
+      "timeWasting": false,
+      "offsideTrap": false,
+      "offensiveStyle": "Wing Play",
+      "transition": "Fast",
+      "corners": 7,
+      "fullbacks": "Full-Back"
+    }
+  },
+  "Rayo Vallecano": {
+    "league": "LaLiga",
+    "id": 1729,
+    "tactics": {
+      "formation": "4231",
+      "height": 80,
+      "length": 70,
+      "width": 70,
+      "pressing": "Constant Pressure",
+      "marking": "Man Marking",
+      "timeWasting": false,
+      "offsideTrap": true,
+      "offensiveStyle": "Wing Play",
+      "transition": "Medium",
+      "corners": 9,
+      "fullbacks": "Wing-Back"
+    }
+  },
+  "Cadiz": {
+    "league": "LaLiga",
+    "id": 1682,
+    "tactics": {
+      "formation": "4231",
+      "height": 35,
+      "length": 30,
+      "width": 45,
+      "pressing": "Drop Back",
+      "marking": "Man Marking",
+      "timeWasting": false,
+      "offsideTrap": false,
+      "offensiveStyle": "Long Ball",
+      "transition": "Medium",
+      "corners": 6,
+      "fullbacks": "Defensive Full-Back"
+    }
+  },
+  "Real Valladolid": {
+    "league": "LaLiga",
+    "id": 1747,
+    "tactics": {
+      "formation": "4231",
+      "height": 30,
+      "length": 35,
+      "width": 20,
+      "pressing": "Drop Back",
+      "marking": "Man Marking",
+      "timeWasting": false,
+      "offsideTrap": false,
+      "offensiveStyle": "Long Ball",
+      "transition": "Medium",
+      "corners": 6,
+      "fullbacks": "Wing-Back"
+    }
+  },
+  "Mallorca": {
+    "league": "LaLiga",
+    "id": 1726,
+    "tactics": {
+      "formation": "541",
+      "height": 35,
+      "length": 55,
+      "width": 30,
+      "pressing": "Balanced Pressure",
+      "marking": "Man Marking",
+      "timeWasting": false,
+      "offsideTrap": false,
+      "offensiveStyle": "Long Ball",
+      "transition": "Medium",
+      "corners": 6,
+      "fullbacks": "Full-Back"
+    }
+  },
+  "Girona": {
+    "league": "LaLiga",
+    "id": 814089,
+    "tactics": {
+      "formation": "4141",
+      "height": 10,
+      "length": 60,
+      "width": 40,
+      "pressing": "Constant Pressure",
+      "marking": "Man Marking",
+      "timeWasting": false,
+      "offsideTrap": true,
+      "offensiveStyle": "Direct Passing",
+      "transition": "Medium",
+      "corners": 7,
+      "fullbacks": "Full-Back"
+    }
+  },
+  "Elche CF": {
+    "league": "LaLiga",
+    "id": 1707,
+    "tactics": {
+      "formation": "532",
+      "height": 50,
+      "length": 50,
+      "width": 55,
+      "pressing": "Balanced Pressure",
+      "marking": "Man Marking",
+      "timeWasting": false,
+      "offsideTrap": false,
+      "offensiveStyle": "Possession",
+      "transition": "Medium",
+      "corners": 6,
+      "fullbacks": "Full-Back"
+    }
+  },
+  "Manchester City": {
+    "league": "Premier League",
+    "id": 679,
+    "tactics": {
+      "formation": "3421",
+      "height": 85,
+      "length": 85,
+      "width": 70,
+      "pressing": "Constant Pressure",
+      "marking": "Zonal Marking",
+      "timeWasting": false,
+      "offsideTrap": true,
+      "offensiveStyle": "Possession",
+      "transition": "Slow",
+      "corners": 10,
+      "fullbacks": "Full-Back"
+    }
+  },
+  "Liverpool": {
+    "league": "Premier League",
+    "id": 676,
+    "tactics": {
+      "formation": "433",
+      "height": 80,
+      "length": 75,
+      "width": 61,
+      "pressing": "Constant Pressure",
+      "marking": "Man Marking",
+      "timeWasting": false,
+      "offsideTrap": true,
+      "offensiveStyle": "Wing Play",
+      "transition": "Fast",
+      "corners": 8,
+      "fullbacks": "Inverted Wing-Back"
+    }
+  },
+  "Chelsea": {
+    "league": "Premier League",
+    "id": 630,
+    "tactics": {
+      "formation": "4231",
+      "height": 60,
+      "length": 60,
+      "width": 60,
+      "pressing": "Balanced Pressure",
+      "marking": "Zonal Marking",
+      "timeWasting": false,
+      "offsideTrap": false,
+      "offensiveStyle": "Possession",
+      "transition": "Medium",
+      "corners": 7,
+      "fullbacks": "Wing-Back"
+    }
+  },
+  "Manchester United": {
+    "league": "Premier League",
+    "id": 680,
+    "tactics": {
+      "formation": "4231",
+      "height": 65,
+      "length": 56,
+      "width": 51,
+      "pressing": "Balanced Pressure",
+      "marking": "Zonal Marking",
+      "timeWasting": false,
+      "offsideTrap": true,
+      "offensiveStyle": "Possession",
+      "transition": "Fast",
+      "corners": 9,
+      "fullbacks": "Wing-Back"
+    }
+  },
+  "Tottenham Hotspur": {
+    "league": "Premier League",
+    "id": 728,
+    "tactics": {
+      "formation": "532",
+      "height": 65,
+      "length": 65,
+      "width": 60,
+      "pressing": "Constant Pressure",
+      "marking": "Man Marking",
+      "timeWasting": false,
+      "offsideTrap": false,
+      "offensiveStyle": "Wing Play",
+      "transition": "Medium",
+      "corners": 8,
+      "fullbacks": "Full-Back"
+    }
+  },
+  "Arsenal": {
+    "league": "Premier League",
+    "id": 602,
+    "tactics": {
+      "formation": "433",
+      "height": 75,
+      "length": 70,
+      "width": 60,
+      "pressing": "Constant Pressure",
+      "marking": "Zonal Marking",
+      "timeWasting": false,
+      "offsideTrap": true,
+      "offensiveStyle": "Possession",
+      "transition": "Medium",
+      "corners": 8,
+      "fullbacks": "Inverted Wing-Back"
+    }
+  },
+  "Newcastle United": {
+    "league": "Premier League",
+    "id": 688,
+    "tactics": {
+      "formation": "433",
+      "height": 50,
+      "length": 50,
+      "width": 50,
+      "pressing": "Drop Back",
+      "marking": "Man Marking",
+      "timeWasting": false,
+      "offsideTrap": false,
+      "offensiveStyle": "Long Ball",
+      "transition": "Fast",
+      "corners": 8,
+      "fullbacks": "Defensive Full-Back"
+    }
+  },
+  "Leicester City": {
+    "league": "Premier League",
+    "id": 673,
+    "tactics": {
+      "formation": "4231",
+      "height": 65,
+      "length": 65,
+      "width": 40,
+      "pressing": "Balanced Pressure",
+      "marking": "Man Marking",
+      "timeWasting": false,
+      "offsideTrap": true,
+      "offensiveStyle": "Possession",
+      "transition": "Medium",
+      "corners": 7,
+      "fullbacks": "Wing-Back"
+    }
+  },
+  "West Ham United": {
+    "league": "Premier League",
+    "id": 735,
+    "tactics": {
+      "formation": "4231",
+      "height": 60,
+      "length": 55,
+      "width": 40,
+      "pressing": "Balanced Pressure",
+      "marking": "Man Marking",
+      "timeWasting": false,
+      "offsideTrap": false,
+      "offensiveStyle": "Long Ball",
+      "transition": "Fast",
+      "corners": 9,
+      "fullbacks": "Defensive Full-Back"
+    }
+  },
+  "Aston Villa": {
+    "league": "Premier League",
+    "id": 603,
+    "tactics": {
+      "formation": "4231",
+      "height": 45,
+      "length": 55,
+      "width": 70,
+      "pressing": "Constant Pressure",
+      "marking": "Man Marking",
+      "timeWasting": false,
+      "offsideTrap": false,
+      "offensiveStyle": "Possession",
+      "transition": "Medium",
+      "corners": 7,
+      "fullbacks": "Wing-Back"
+    }
+  },
+  "Everton": {
+    "league": "Premier League",
+    "id": 650,
+    "tactics": {
+      "formation": "433",
+      "height": 35,
+      "length": 55,
+      "width": 40,
+      "pressing": "Drop Back",
+      "marking": "Zonal Marking",
+      "timeWasting": false,
+      "offsideTrap": false,
+      "offensiveStyle": "Direct Passing",
+      "transition": "Medium",
+      "corners": 8,
+      "fullbacks": "Full-Back"
+    }
+  },
+  "Brighton": {
+    "league": "Premier League",
+    "id": 618,
+    "tactics": {
+      "formation": "4231",
+      "height": 80,
+      "length": 80,
+      "width": 75,
+      "pressing": "Constant Pressure",
+      "marking": "Zonal Marking",
+      "timeWasting": false,
+      "offsideTrap": true,
+      "offensiveStyle": "Possession",
+      "transition": "Slow",
+      "corners": 10,
+      "fullbacks": "Wing-Back"
+    }
+  },
+  "Wolverhampton": {
+    "league": "Premier League",
+    "id": 740,
+    "tactics": {
+      "formation": "442",
+      "height": 55,
+      "length": 60,
+      "width": 50,
+      "pressing": "Balanced Pressure",
+      "marking": "Man Marking",
+      "timeWasting": false,
+      "offsideTrap": false,
+      "offensiveStyle": "Direct Passing",
+      "transition": "Medium",
+      "corners": 7,
+      "fullbacks": "Full-Back"
+    }
+  },
+  "Crystal Palace": {
+    "league": "Premier League",
+    "id": 642,
+    "tactics": {
+      "formation": "433",
+      "height": 60,
+      "length": 70,
+      "width": 50,
+      "pressing": "Balanced Pressure",
+      "marking": "Zonal Marking",
+      "timeWasting": false,
+      "offsideTrap": false,
+      "offensiveStyle": "Wing Play",
+      "transition": "Medium",
+      "corners": 6,
+      "fullbacks": "Full-Back"
+    }
+  },
+  "Southampton": {
+    "league": "Premier League",
+    "id": 713,
+    "tactics": {
+      "formation": "4231",
+      "height": 60,
+      "length": 65,
+      "width": 70,
+      "pressing": "Constant Pressure",
+      "marking": "Man Marking",
+      "timeWasting": false,
+      "offsideTrap": false,
+      "offensiveStyle": "Possession",
+      "transition": "Medium",
+      "corners": 6,
+      "fullbacks": "Inverted Wing-Back"
+    }
+  },
+  "Fulham": {
+    "league": "Premier League",
+    "id": 654,
+    "tactics": {
+      "formation": "4231",
+      "height": 65,
+      "length": 70,
+      "width": 40,
+      "pressing": "Drop Back",
+      "marking": "Zonal Marking",
+      "timeWasting": false,
+      "offsideTrap": false,
+      "offensiveStyle": "Possession",
+      "transition": "Medium",
+      "corners": 8,
+      "fullbacks": "Defensive Full-Back"
+    }
+  },
+  "Brentford": {
+    "league": "Premier League",
+    "id": 617,
+    "tactics": {
+      "formation": "4231",
+      "height": 60,
+      "length": 60,
+      "width": 40,
+      "pressing": "Constant Pressure",
+      "marking": "Zonal Marking",
+      "timeWasting": false,
+      "offsideTrap": true,
+      "offensiveStyle": "Possession",
+      "transition": "Medium",
+      "corners": 8,
+      "fullbacks": "Inverted Wing-Back"
+    }
+  },
+  "Bournemouth": {
+    "league": "Premier League",
+    "id": 600,
+    "tactics": {
+      "formation": "4231",
+      "height": 60,
+      "length": 65,
+      "width": 70,
+      "pressing": "Balanced Pressure",
+      "marking": "Zonal Marking",
+      "timeWasting": false,
+      "offsideTrap": true,
+      "offensiveStyle": "Direct Passing",
+      "transition": "Medium",
+      "corners": 7,
+      "fullbacks": "Wing-Back"
+    }
+  },
+  "Nottingham Forest": {
+    "league": "Premier League",
+    "id": 692,
+    "tactics": {
+      "formation": "532",
+      "height": 65,
+      "length": 60,
+      "width": 50,
+      "pressing": "Balanced Pressure",
+      "marking": "Zonal Marking",
+      "timeWasting": false,
+      "offsideTrap": true,
+      "offensiveStyle": "Direct Passing",
+      "transition": "Medium",
+      "corners": 7,
+      "fullbacks": "Wing-Back"
+    }
+  },
+  "Leeds United": {
+    "league": "Premier League",
+    "id": 671,
+    "tactics": {
+      "formation": "4141",
+      "height": 50,
+      "length": 50,
+      "width": 85,
+      "pressing": "Balanced Pressure",
+      "marking": "Zonal Marking",
+      "timeWasting": false,
+      "offsideTrap": true,
+      "offensiveStyle": "Possession",
+      "transition": "Fast",
+      "corners": 8,
+      "fullbacks": "Inverted Wing-Back"
+    }
+  },
+  "Juventus": {
+    "league": "Serie A",
+    "id": 1139,
+    "tactics": {
+      "formation": "3142",
+      "height": 50,
+      "length": 40,
+      "width": 60,
+      "pressing": "Drop Back",
+      "marking": "Zonal Marking",
+      "timeWasting": false,
+      "offsideTrap": false,
+      "offensiveStyle": "Long Ball",
+      "transition": "Medium",
+      "corners": 8,
+      "fullbacks": "Full-Back"
+    }
+  },
+  "Inter Milan": {
+    "league": "Serie A",
+    "id": 1135,
+    "tactics": {
+      "formation": "3142",
+      "height": 65,
+      "length": 65,
+      "width": 60,
+      "pressing": "Balanced Pressure",
+      "marking": "Man Marking",
+      "timeWasting": false,
+      "offsideTrap": true,
+      "offensiveStyle": "Direct Passing",
+      "transition": "Fast",
+      "corners": 8,
+      "fullbacks": "Wing-Back"
+    }
+  },
+  "AS Roma": {
+    "league": "Serie A",
+    "id": 1100,
+    "tactics": {
+      "formation": "3421",
+      "height": 50,
+      "length": 50,
+      "width": 50,
+      "pressing": "Balanced Pressure",
+      "marking": "Zonal Marking",
+      "timeWasting": false,
+      "offsideTrap": false,
+      "offensiveStyle": "Wing Play",
+      "transition": "Slow",
+      "corners": 7,
+      "fullbacks": "Inverted Wing-Back"
+    }
+  },
+  "AC Milan": {
+    "league": "Serie A",
+    "id": 1099,
+    "tactics": {
+      "formation": "433",
+      "height": 55,
+      "length": 65,
+      "width": 40,
+      "pressing": "Balanced Pressure",
+      "marking": "Zonal Marking",
+      "timeWasting": false,
+      "offsideTrap": true,
+      "offensiveStyle": "Wing Play",
+      "transition": "Fast",
+      "corners": 8,
+      "fullbacks": "Wing-Back"
+    }
+  },
+  "Napoli": {
+    "league": "Serie A",
+    "id": 1150,
+    "tactics": {
+      "formation": "433",
+      "height": 75,
+      "length": 50,
+      "width": 85,
+      "pressing": "Constant Pressure",
+      "marking": "Man Marking",
+      "timeWasting": false,
+      "offsideTrap": false,
+      "offensiveStyle": "Possession",
+      "transition": "Fast",
+      "corners": 8,
+      "fullbacks": "Defensive Full-Back"
+    }
+  },
+  "Lazio": {
+    "league": "Serie A",
+    "id": 1140,
+    "tactics": {
+      "formation": "433",
+      "height": 65,
+      "length": 45,
+      "width": 70,
+      "pressing": "Constant Pressure",
+      "marking": "Zonal Marking",
+      "timeWasting": false,
+      "offsideTrap": true,
+      "offensiveStyle": "Possession",
+      "transition": "Slow",
+      "corners": 8,
+      "fullbacks": "Inverted Wing-Back"
+    }
+  },
+  "Atalanta": {
+    "league": "Serie A",
+    "id": 1106,
+    "tactics": {
+      "formation": "343",
+      "height": 70,
+      "length": 75,
+      "width": 55,
+      "pressing": "Constant Pressure",
+      "marking": "Zonal Marking",
+      "timeWasting": false,
+      "offsideTrap": true,
+      "offensiveStyle": "Direct Passing",
+      "transition": "Fast",
+      "corners": 10,
+      "fullbacks": "Wing-Back"
+    }
+  },
+  "Fiorentina": {
+    "league": "Serie A",
+    "id": 1129,
+    "tactics": {
+      "formation": "433",
+      "height": 45,
+      "length": 55,
+      "width": 45,
+      "pressing": "Balanced Pressure",
+      "marking": "Zonal Marking",
+      "timeWasting": false,
+      "offsideTrap": false,
+      "offensiveStyle": "Long Ball",
+      "transition": "Fast",
+      "corners": 8,
+      "fullbacks": "Full-Back"
+    }
+  },
+  "Sassuolo": {
+    "league": "Serie A",
+    "id": 3800256,
+    "tactics": {
+      "formation": "433",
+      "height": 55,
+      "length": 60,
+      "width": 50,
+      "pressing": "Balanced Pressure",
+      "marking": "Zonal Marking",
+      "timeWasting": false,
+      "offsideTrap": false,
+      "offensiveStyle": "Possession",
+      "transition": "Medium",
+      "corners": 8,
+      "fullbacks": "Full-Back"
+    }
+  },
+  "Torino": {
+    "league": "Serie A",
+    "id": 1174,
+    "tactics": {
+      "formation": "3421",
+      "height": 40,
+      "length": 45,
+      "width": 60,
+      "pressing": "Drop Back",
+      "marking": "Man Marking",
+      "timeWasting": false,
+      "offsideTrap": false,
+      "offensiveStyle": "Long Ball",
+      "transition": "Fast",
+      "corners": 8,
+      "fullbacks": "Wing-Back"
+    }
+  },
+  "Sampdoria": {
+    "league": "Serie A",
+    "id": 1167,
+    "tactics": {
+      "formation": "3142",
+      "height": 40,
+      "length": 40,
+      "width": 40,
+      "pressing": "Balanced Pressure",
+      "marking": "Zonal Marking",
+      "timeWasting": false,
+      "offsideTrap": true,
+      "offensiveStyle": "Long Ball",
+      "transition": "Medium",
+      "corners": 7,
+      "fullbacks": "Full-Back"
+    }
+  },
+  "Hellas Verona": {
+    "league": "Serie A",
+    "id": 2201,
+    "tactics": {
+      "formation": "3421",
+      "height": 40,
+      "length": 45,
+      "width": 55,
+      "pressing": "Balanced Pressure",
+      "marking": "Zonal Marking",
+      "timeWasting": false,
+      "offsideTrap": false,
+      "offensiveStyle": "Long Ball",
+      "transition": "Slow",
+      "corners": 8,
+      "fullbacks": "Full-Back"
+    }
+  },
+  "Bologna": {
+    "league": "Serie A",
+    "id": 1111,
+    "tactics": {
+      "formation": "4231",
+      "height": 65,
+      "length": 50,
+      "width": 60,
+      "pressing": "Balanced Pressure",
+      "marking": "Man Marking",
+      "timeWasting": false,
+      "offsideTrap": true,
+      "offensiveStyle": "Wing Play",
+      "transition": "Medium",
+      "corners": 8,
+      "fullbacks": "Defensive Full-Back"
+    }
+  },
+  "Udinese": {
+    "league": "Serie A",
+    "id": 1178,
+    "tactics": {
+      "formation": "3142",
+      "height": 55,
+      "length": 45,
+      "width": 50,
+      "pressing": "Balanced Pressure",
+      "marking": "Man Marking",
+      "timeWasting": false,
+      "offsideTrap": false,
+      "offensiveStyle": "Possession",
+      "transition": "Slow",
+      "corners": 6,
+      "fullbacks": "Defensive Full-Back"
+    }
+  },
+  "Empoli": {
+    "league": "Serie A",
+    "id": 1126,
+    "tactics": {
+      "formation": "41212",
+      "height": 35,
+      "length": 50,
+      "width": 60,
+      "pressing": "Constant Pressure",
+      "marking": "Zonal Marking",
+      "timeWasting": false,
+      "offsideTrap": true,
+      "offensiveStyle": "Possession",
+      "transition": "Fast",
+      "corners": 8,
+      "fullbacks": "Full-Back"
+    }
+  },
+  "Spezia": {
+    "league": "Serie A",
+    "id": 1173,
+    "tactics": {
+      "formation": "433",
+      "height": 50,
+      "length": 45,
+      "width": 50,
+      "pressing": "Balanced Pressure",
+      "marking": "Zonal Marking",
+      "timeWasting": false,
+      "offsideTrap": false,
+      "offensiveStyle": "Direct Passing",
+      "transition": "Fast",
+      "corners": 7,
+      "fullbacks": "Full-Back"
+    }
+  },
+  "Monza": {
+    "league": "Serie A",
+    "id": 1149,
+    "tactics": {
+      "formation": "3421",
+      "height": 60,
+      "length": 55,
+      "width": 60,
+      "pressing": "Balanced Pressure",
+      "marking": "Man Marking",
+      "timeWasting": false,
+      "offsideTrap": true,
+      "offensiveStyle": "Possession",
+      "transition": "Medium",
+      "corners": 7,
+      "fullbacks": "Full-Back"
+    }
+  },
+  "Salernitana": {
+    "league": "Serie A",
+    "id": 1166,
+    "tactics": {
+      "formation": "3421",
+      "height": 50,
+      "length": 50,
+      "width": 60,
+      "pressing": "Balanced Pressure",
+      "marking": "Zonal Marking",
+      "timeWasting": false,
+      "offsideTrap": false,
+      "offensiveStyle": "Wing Play",
+      "transition": "Fast",
+      "corners": 8,
+      "fullbacks": "Full-Back"
+    }
+  },
+  "Lecce": {
+    "league": "Serie A",
+    "id": 1141,
+    "tactics": {
+      "formation": "433",
+      "height": 40,
+      "length": 40,
+      "width": 40,
+      "pressing": "Drop Back",
+      "marking": "Man Marking",
+      "timeWasting": false,
+      "offsideTrap": false,
+      "offensiveStyle": "Direct Passing",
+      "transition": "Fast",
+      "corners": 7,
+      "fullbacks": "Full-Back"
+    }
+  },
+  "Cremonese": {
+    "league": "Serie A",
+    "id": 1125,
+    "tactics": {
+      "formation": "41212",
+      "height": 35,
+      "length": 45,
+      "width": 30,
+      "pressing": "Balanced Pressure",
+      "marking": "Man Marking",
+      "timeWasting": false,
+      "offsideTrap": false,
+      "offensiveStyle": "Long Ball",
+      "transition": "Medium",
+      "corners": 8,
+      "fullbacks": "Full-Back"
+    }
+  },
+  "FC Bayern": {
+    "league": "Bundesliga",
+    "id": 915,
+    "tactics": {
+      "formation": "4231",
+      "height": 75,
+      "length": 85,
+      "width": 90,
+      "pressing": "Constant Pressure",
+      "marking": "Zonal Marking",
+      "timeWasting": false,
+      "offsideTrap": true,
+      "offensiveStyle": "Possession",
+      "transition": "Fast",
+      "corners": 8,
+      "fullbacks": "Wing-Back"
+    }
+  },
+  "Borussia Dortmund": {
+    "league": "Bundesliga",
+    "id": 907,
+    "tactics": {
+      "formation": "4141",
+      "height": 50,
+      "length": 80,
+      "width": 40,
+      "pressing": "Constant Pressure",
+      "marking": "Zonal Marking",
+      "timeWasting": false,
+      "offsideTrap": true,
+      "offensiveStyle": "Direct Passing",
+      "transition": "Fast",
+      "corners": 8,
+      "fullbacks": "Wing-Back"
+    }
+  },
+  "Bayer Leverkusen": {
+    "league": "Bundesliga",
+    "id": 901,
+    "tactics": {
+      "formation": "343",
+      "height": 60,
+      "length": 60,
+      "width": 60,
+      "pressing": "Constant Pressure",
+      "marking": "Zonal Marking",
+      "timeWasting": false,
+      "offsideTrap": true,
+      "offensiveStyle": "Wing Play",
+      "transition": "Fast",
+      "corners": 8,
+      "fullbacks": "Full-Back"
+    }
+  },
+  "Gladbach": {
+    "league": "Bundesliga",
+    "id": 908,
+    "tactics": {
+      "formation": "4231",
+      "height": 60,
+      "length": 60,
+      "width": 60,
+      "pressing": "Balanced Pressure",
+      "marking": "Zonal Marking",
+      "timeWasting": false,
+      "offsideTrap": true,
+      "offensiveStyle": "Possession",
+      "transition": "Medium",
+      "corners": 7,
+      "fullbacks": "Full-Back"
+    }
+  },
+  "VfL Wolfsburg": {
+    "league": "Bundesliga",
+    "id": 961,
+    "tactics": {
+      "formation": "433",
+      "height": 65,
+      "length": 55,
+      "width": 70,
+      "pressing": "Balanced Pressure",
+      "marking": "Man Marking",
+      "timeWasting": false,
+      "offsideTrap": true,
+      "offensiveStyle": "Possession",
+      "transition": "Slow",
+      "corners": 8,
+      "fullbacks": "Wing-Back"
+    }
+  },
+  "RB Leipzig": {
+    "league": "Bundesliga",
+    "id": 91013388,
+    "tactics": {
+      "formation": "442",
+      "height": 70,
+      "length": 70,
+      "width": 40,
+      "pressing": "Constant Pressure",
+      "marking": "Zonal Marking",
+      "timeWasting": false,
+      "offsideTrap": true,
+      "offensiveStyle": "Direct Passing",
+      "transition": "Fast",
+      "corners": 9,
+      "fullbacks": "Wing-Back"
+    }
+  },
+  "TSG Hoffenheim": {
+    "league": "Bundesliga",
+    "id": 879226,
+    "tactics": {
+      "formation": "532",
+      "height": 55,
+      "length": 55,
+      "width": 60,
+      "pressing": "Balanced Pressure",
+      "marking": "Man Marking",
+      "timeWasting": false,
+      "offsideTrap": false,
+      "offensiveStyle": "Long Ball",
+      "transition": "Medium",
+      "corners": 8,
+      "fullbacks": "Full-Back"
+    }
+  },
+  "Schalke 04": {
+    "league": "Bundesliga",
+    "id": 920,
+    "tactics": {
+      "formation": "4231",
+      "height": 40,
+      "length": 50,
+      "width": 50,
+      "pressing": "Balanced Pressure",
+      "marking": "Zonal Marking",
+      "timeWasting": false,
+      "offsideTrap": false,
+      "offensiveStyle": "Direct Passing",
+      "transition": "Fast",
+      "corners": 6,
+      "fullbacks": "Defensive Full-Back"
+    }
+  },
+  "Hertha BSC": {
+    "league": "Bundesliga",
+    "id": 2247,
+    "tactics": {
+      "formation": "4231",
+      "height": 40,
+      "length": 40,
+      "width": 30,
+      "pressing": "Constant Pressure",
+      "marking": "Zonal Marking",
+      "timeWasting": false,
+      "offsideTrap": false,
+      "offensiveStyle": "Direct Passing",
+      "transition": "Medium",
+      "corners": 8,
+      "fullbacks": "Full-Back"
+    }
+  },
+  "Eintracht Frankfurt": {
+    "league": "Bundesliga",
+    "id": 912,
+    "tactics": {
+      "formation": "3421",
+      "height": 60,
+      "length": 70,
+      "width": 55,
+      "pressing": "Constant Pressure",
+      "marking": "Man Marking",
+      "timeWasting": false,
+      "offsideTrap": true,
+      "offensiveStyle": "Wing Play",
+      "transition": "Fast",
+      "corners": 8,
+      "fullbacks": "Full-Back"
+    }
+  },
+  "VfB Stuttgart": {
+    "league": "Bundesliga",
+    "id": 960,
+    "tactics": {
+      "formation": "3421",
+      "height": 60,
+      "length": 60,
+      "width": 50,
+      "pressing": "Balanced Pressure",
+      "marking": "Zonal Marking",
+      "timeWasting": false,
+      "offsideTrap": false,
+      "offensiveStyle": "Direct Passing",
+      "transition": "Medium",
+      "corners": 7,
+      "fullbacks": "Full-Back"
+    }
+  },
+  "FC Koln": {
+    "league": "Bundesliga",
+    "id": 916,
+    "tactics": {
+      "formation": "4231",
+      "height": 50,
+      "length": 70,
+      "width": 40,
+      "pressing": "Constant Pressure",
+      "marking": "Zonal Marking",
+      "timeWasting": false,
+      "offsideTrap": true,
+      "offensiveStyle": "Long Ball",
+      "transition": "Fast",
+      "corners": 8,
+      "fullbacks": "Full-Back"
+    }
+  },
+  "FSV Mainz": {
+    "league": "Bundesliga",
+    "id": 918,
+    "tactics": {
+      "formation": "541",
+      "height": 60,
+      "length": 60,
+      "width": 50,
+      "pressing": "Constant Pressure",
+      "marking": "Zonal Marking",
+      "timeWasting": false,
+      "offsideTrap": false,
+      "offensiveStyle": "Long Ball",
+      "transition": "Fast",
+      "corners": 7,
+      "fullbacks": "Full-Back"
+    }
+  },
+  "Werder Bremen": {
+    "league": "Bundesliga",
+    "id": 948,
+    "tactics": {
+      "formation": "532",
+      "height": 55,
+      "length": 55,
+      "width": 50,
+      "pressing": "Balanced Pressure",
+      "marking": "Zonal Marking",
+      "timeWasting": false,
+      "offsideTrap": false,
+      "offensiveStyle": "Direct Passing",
+      "transition": "Medium",
+      "corners": 7,
+      "fullbacks": "Full-Back"
+    }
+  },
+  "FC Augsburg": {
+    "league": "Bundesliga",
+    "id": 2238,
+    "tactics": {
+      "formation": "442",
+      "height": 60,
+      "length": 55,
+      "width": 60,
+      "pressing": "Balanced Pressure",
+      "marking": "Zonal Marking",
+      "timeWasting": false,
+      "offsideTrap": true,
+      "offensiveStyle": "Long Ball",
+      "transition": "Medium",
+      "corners": 9,
+      "fullbacks": "Defensive Full-Back"
+    }
+  },
+  "SC Freiburg": {
+    "league": "Bundesliga",
+    "id": 944,
+    "tactics": {
+      "formation": "442",
+      "height": 45,
+      "length": 55,
+      "width": 40,
+      "pressing": "Balanced Pressure",
+      "marking": "Man Marking",
+      "timeWasting": false,
+      "offsideTrap": false,
+      "offensiveStyle": "Possession",
+      "transition": "Slow",
+      "corners": 8,
+      "fullbacks": "Defensive Full-Back"
+    }
+  },
+  "Union Berlin": {
+    "league": "Bundesliga",
+    "id": 121182,
+    "tactics": {
+      "formation": "532",
+      "height": 40,
+      "length": 40,
+      "width": 40,
+      "pressing": "Constant Pressure",
+      "marking": "Man Marking",
+      "timeWasting": false,
+      "offsideTrap": false,
+      "offensiveStyle": "Direct Passing",
+      "transition": "Fast",
+      "corners": 10,
+      "fullbacks": "Defensive Full-Back"
+    }
+  },
+  "VfL Bochum": {
+    "league": "Bundesliga",
+    "id": 905,
+    "tactics": {
+      "formation": "4231",
+      "height": 60,
+      "length": 65,
+      "width": 50,
+      "pressing": "Constant Pressure",
+      "marking": "Zonal Marking",
+      "timeWasting": false,
+      "offsideTrap": true,
+      "offensiveStyle": "Long Ball",
+      "transition": "Fast",
+      "corners": 8,
+      "fullbacks": "Wing-Back"
+    }
+  },
+  "Paris Saint-Germain": {
+    "league": "Ligue 1",
+    "id": 868,
+    "tactics": {
+      "formation": "433",
+      "height": 65,
+      "length": 75,
+      "width": 65,
+      "pressing": "Constant Pressure",
+      "marking": "Zonal Marking",
+      "timeWasting": false,
+      "offsideTrap": true,
+      "offensiveStyle": "Possession",
+      "transition": "Fast",
+      "corners": 8,
+      "fullbacks": "Wing-Back"
+    }
+  },
+  "Lyon": {
+    "league": "Ligue 1",
+    "id": 865,
+    "tactics": {
+      "formation": "4231",
+      "height": 60,
+      "length": 60,
+      "width": 60,
+      "pressing": "Balanced Pressure",
+      "marking": "Zonal Marking",
+      "timeWasting": false,
+      "offsideTrap": true,
+      "offensiveStyle": "Long Ball",
+      "transition": "Medium",
+      "corners": 7,
+      "fullbacks": "Inverted Wing-Back"
+    }
+  },
+  "AS Monaco": {
+    "league": "Ligue 1",
+    "id": 826,
+    "tactics": {
+      "formation": "442",
+      "height": 70,
+      "length": 65,
+      "width": 60,
+      "pressing": "Constant Pressure",
+      "marking": "Man Marking",
+      "timeWasting": false,
+      "offsideTrap": true,
+      "offensiveStyle": "Direct Passing",
+      "transition": "Fast",
+      "corners": 9,
+      "fullbacks": "Wing-Back"
+    }
+  },
+  "Marseille": {
+    "league": "Ligue 1",
+    "id": 866,
+    "tactics": {
+      "formation": "4141",
+      "height": 65,
+      "length": 55,
+      "width": 60,
+      "pressing": "Constant Pressure",
+      "marking": "Zonal Marking",
+      "timeWasting": false,
+      "offsideTrap": false,
+      "offensiveStyle": "Possession",
+      "transition": "Slow",
+      "corners": 7,
+      "fullbacks": "Full-Back"
+    }
+  },
+  "Rennes": {
+    "league": "Ligue 1",
+    "id": 884,
+    "tactics": {
+      "formation": "532",
+      "height": 60,
+      "length": 60,
+      "width": 55,
+      "pressing": "Balanced Pressure",
+      "marking": "Zonal Marking",
+      "timeWasting": false,
+      "offsideTrap": true,
+      "offensiveStyle": "Wing Play",
+      "transition": "Medium",
+      "corners": 8,
+      "fullbacks": "Wing-Back"
+    }
+  },
+  "Lille": {
+    "league": "Ligue 1",
+    "id": 858,
+    "tactics": {
+      "formation": "4231",
+      "height": 65,
+      "length": 60,
+      "width": 60,
+      "pressing": "Constant Pressure",
+      "marking": "Zonal Marking",
+      "timeWasting": false,
+      "offsideTrap": true,
+      "offensiveStyle": "Possession",
+      "transition": "Medium",
+      "corners": 8,
+      "fullbacks": "Inverted Wing-Back"
+    }
+  },
+  "OGC Nice": {
+    "league": "Ligue 1",
+    "id": 862,
+    "tactics": {
+      "formation": "433",
+      "height": 55,
+      "length": 60,
+      "width": 60,
+      "pressing": "Balanced Pressure",
+      "marking": "Zonal Marking",
+      "timeWasting": false,
+      "offsideTrap": true,
+      "offensiveStyle": "Direct Passing",
+      "transition": "Medium",
+      "corners": 7,
+      "fullbacks": "Defensive Full-Back"
+    }
+  },
+  "FC Nantes": {
+    "league": "Ligue 1",
+    "id": 846,
+    "tactics": {
+      "formation": "442",
+      "height": 60,
+      "length": 60,
+      "width": 55,
+      "pressing": "Balanced Pressure",
+      "marking": "Zonal Marking",
+      "timeWasting": false,
+      "offsideTrap": false,
+      "offensiveStyle": "Direct Passing",
+      "transition": "Medium",
+      "corners": 8,
+      "fullbacks": "Full-Back"
+    }
+  },
+  "RC Lens": {
+    "league": "Ligue 1",
+    "id": 871,
+    "tactics": {
+      "formation": "3142",
+      "height": 50,
+      "length": 50,
+      "width": 55,
+      "pressing": "Drop Back",
+      "marking": "Man Marking",
+      "timeWasting": false,
+      "offsideTrap": true,
+      "offensiveStyle": "Possession",
+      "transition": "Fast",
+      "corners": 7,
+      "fullbacks": "Wing-Back"
+    }
+  },
+  "Montpellier": {
+    "league": "Ligue 1",
+    "id": 859,
+    "tactics": {
+      "formation": "442",
+      "height": 65,
+      "length": 60,
+      "width": 55,
+      "pressing": "Balanced Pressure",
+      "marking": "Zonal Marking",
+      "timeWasting": false,
+      "offsideTrap": false,
+      "offensiveStyle": "Wing Play",
+      "transition": "Slow",
+      "corners": 8,
+      "fullbacks": "Full-Back"
+    }
+  },
+  "Strasbourg": {
+    "league": "Ligue 1",
+    "id": 872,
+    "tactics": {
+      "formation": "442",
+      "height": 55,
+      "length": 60,
+      "width": 55,
+      "pressing": "Balanced Pressure",
+      "marking": "Zonal Marking",
+      "timeWasting": false,
+      "offsideTrap": true,
+      "offensiveStyle": "Wing Play",
+      "transition": "Medium",
+      "corners": 7,
+      "fullbacks": "Full-Back"
+    }
+  },
+  "Reims": {
+    "league": "Ligue 1",
+    "id": 2047,
+    "tactics": {
+      "formation": "4141",
+      "height": 50,
+      "length": 50,
+      "width": 60,
+      "pressing": "Constant Pressure",
+      "marking": "Zonal Marking",
+      "timeWasting": false,
+      "offsideTrap": false,
+      "offensiveStyle": "Wing Play",
+      "transition": "Slow",
+      "corners": 7,
+      "fullbacks": "Full-Back"
+    }
+  },
+  "Angers": {
+    "league": "Ligue 1",
+    "id": 875,
+    "tactics": {
+      "formation": "433",
+      "height": 55,
+      "length": 60,
+      "width": 60,
+      "pressing": "Balanced Pressure",
+      "marking": "Zonal Marking",
+      "timeWasting": false,
+      "offsideTrap": false,
+      "offensiveStyle": "Direct Passing",
+      "transition": "Medium",
+      "corners": 7,
+      "fullbacks": "Full-Back"
+    }
+  },
+  "Toulouse": {
+    "league": "Ligue 1",
+    "id": 886,
+    "tactics": {
+      "formation": "4141",
+      "height": 55,
+      "length": 60,
+      "width": 60,
+      "pressing": "Constant Pressure",
+      "marking": "Zonal Marking",
+      "timeWasting": false,
+      "offsideTrap": false,
+      "offensiveStyle": "Possession",
+      "transition": "Slow",
+      "corners": 7,
+      "fullbacks": "Full-Back"
+    }
+  },
+  "Brest": {
+    "league": "Ligue 1",
+    "id": 2061,
+    "tactics": {
+      "formation": "4231",
+      "height": 55,
+      "length": 60,
+      "width": 60,
+      "pressing": "Constant Pressure",
+      "marking": "Zonal Marking",
+      "timeWasting": false,
+      "offsideTrap": false,
+      "offensiveStyle": "Long Ball",
+      "transition": "Medium",
+      "corners": 7,
+      "fullbacks": "Inverted Wing-Back"
+    }
+  },
+  "Lorient": {
+    "league": "Ligue 1",
+    "id": 2005,
+    "tactics": {
+      "formation": "442",
+      "height": 60,
+      "length": 60,
+      "width": 55,
+      "pressing": "Constant Pressure",
+      "marking": "Man Marking",
+      "timeWasting": false,
+      "offsideTrap": true,
+      "offensiveStyle": "Direct Passing",
+      "transition": "Fast",
+      "corners": 9,
+      "fullbacks": "Wing-Back"
+    }
+  },
+  "AJ Auxerre": {
+    "league": "Ligue 1",
+    "id": 824,
+    "tactics": {
+      "formation": "442",
+      "height": 55,
+      "length": 60,
+      "width": 60,
+      "pressing": "Constant Pressure",
+      "marking": "Zonal Marking",
+      "timeWasting": false,
+      "offsideTrap": false,
+      "offensiveStyle": "Long Ball",
+      "transition": "Slow",
+      "corners": 7,
+      "fullbacks": "Full-Back"
+    }
+  },
+  "Troyes": {
+    "league": "Ligue 1",
+    "id": 1971,
+    "tactics": {
+      "formation": "433",
+      "height": 55,
+      "length": 60,
+      "width": 60,
+      "pressing": "Constant Pressure",
+      "marking": "Zonal Marking",
+      "timeWasting": false,
+      "offsideTrap": false,
+      "offensiveStyle": "Long Ball",
+      "transition": "Slow",
+      "corners": 7,
+      "fullbacks": "Inverted Wing-Back"
+    }
+  },
+  "Clermont": {
+    "league": "Ligue 1",
+    "id": 1992,
+    "tactics": {
+      "formation": "442",
+      "height": 60,
+      "length": 60,
+      "width": 55,
+      "pressing": "Balanced Pressure",
+      "marking": "Zonal Marking",
+      "timeWasting": false,
+      "offsideTrap": false,
+      "offensiveStyle": "Wing Play",
+      "transition": "Medium",
+      "corners": 8,
+      "fullbacks": "Wing-Back"
+    }
+  },
+  "Ajaccio": {
+    "league": "Ligue 1",
+    "id": 400362,
+    "tactics": {
+      "formation": "532",
+      "height": 60,
+      "length": 60,
+      "width": 55,
+      "pressing": "Constant Pressure",
+      "marking": "Man Marking",
+      "timeWasting": false,
+      "offsideTrap": true,
+      "offensiveStyle": "Direct Passing",
+      "transition": "Fast",
+      "corners": 7,
+      "fullbacks": "Wing-Back"
+    }
+  },
+  "Benfica": {
+    "league": "Portugal",
+    "id": 1487,
+    "tactics": {
+      "formation": "4231",
+      "height": 55,
+      "length": 70,
+      "width": 60,
+      "pressing": "Constant Pressure",
+      "marking": "Zonal Marking",
+      "timeWasting": false,
+      "offsideTrap": true,
+      "offensiveStyle": "Direct Passing",
+      "transition": "Fast",
+      "corners": 8,
+      "fullbacks": "Wing-Back"
+    }
+  },
+  "Feyenoord": {
+    "league": "Netherlands",
+    "id": 1013,
+    "tactics": {
+      "formation": "433",
+      "height": 60,
+      "length": 60,
+      "width": 60,
+      "pressing": "Balanced Pressure",
+      "marking": "Zonal Marking",
+      "timeWasting": false,
+      "offsideTrap": false,
+      "offensiveStyle": "Direct Passing",
+      "transition": "Medium",
+      "corners": 7,
+      "fullbacks": "Full-Back"
+    }
+  },
+  "FC Porto": {
+    "league": "Portugal",
+    "id": 1478,
+    "tactics": {
+      "formation": "442",
+      "height": 55,
+      "length": 60,
+      "width": 60,
+      "pressing": "Constant Pressure",
+      "marking": "Zonal Marking",
+      "timeWasting": false,
+      "offsideTrap": true,
+      "offensiveStyle": "Long Ball",
+      "transition": "Slow",
+      "corners": 7,
+      "fullbacks": "Inverted Wing-Back"
+    }
+  },
+  "Shakhtar": {
+    "league": "Ukraine",
+    "id": 1895,
+    "tactics": {
+      "formation": "4231",
+      "height": 55,
+      "length": 40,
+      "width": 60,
+      "pressing": "Balanced Pressure",
+      "marking": "Man Marking",
+      "timeWasting": false,
+      "offsideTrap": false,
+      "offensiveStyle": "Possession",
+      "transition": "Medium",
+      "corners": 7,
+      "fullbacks": "Full-Back"
+    }
+  },
+  "FC RB Salzburg": {
+    "league": "Austria",
+    "id": 158,
+    "tactics": {
+      "formation": "41212",
+      "height": 70,
+      "length": 70,
+      "width": 50,
+      "pressing": "Constant Pressure",
+      "marking": "Zonal Marking",
+      "timeWasting": false,
+      "offsideTrap": false,
+      "offensiveStyle": "Direct Passing",
+      "transition": "Fast",
+      "corners": 9,
+      "fullbacks": "Wing-Back"
+    }
+  },
+  "Slavia Prague": {
+    "league": "Czech Republic",
+    "id": 474,
+    "tactics": {
+      "formation": "4231",
+      "height": 55,
+      "length": 60,
+      "width": 60,
+      "pressing": "Balanced Pressure",
+      "marking": "Zonal Marking",
+      "timeWasting": false,
+      "offsideTrap": true,
+      "offensiveStyle": "Long Ball",
+      "transition": "Slow",
+      "corners": 7,
+      "fullbacks": "Inverted Wing-Back"
+    }
+  },
+  "Braga": {
+    "league": "Portugal",
+    "id": 1488,
+    "tactics": {
+      "formation": "442",
+      "height": 45,
+      "length": 40,
+      "width": 40,
+      "pressing": "Drop Back",
+      "marking": "Man Marking",
+      "timeWasting": false,
+      "offsideTrap": false,
+      "offensiveStyle": "Wing Play",
+      "transition": "Medium",
+      "corners": 7,
+      "fullbacks": "Full-Back"
+    }
+  },
+  "Rangers": {
+    "league": "Scotland",
+    "id": 1570,
+    "tactics": {
+      "formation": "41212",
+      "height": 35,
+      "length": 70,
+      "width": 60,
+      "pressing": "Constant Pressure",
+      "marking": "Zonal Marking",
+      "timeWasting": false,
+      "offsideTrap": true,
+      "offensiveStyle": "Wing Play",
+      "transition": "Fast",
+      "corners": 9,
+      "fullbacks": "Inverted Wing-Back"
+    }
+  },
+  "Dinamo Zagreb": {
+    "league": "Croatia",
+    "id": 432,
+    "tactics": {
+      "formation": "4231",
+      "height": 50,
+      "length": 50,
+      "width": 60,
+      "pressing": "Balanced Pressure",
+      "marking": "Zonal Marking",
+      "timeWasting": false,
+      "offsideTrap": false,
+      "offensiveStyle": "Direct Passing",
+      "transition": "Medium",
+      "corners": 7,
+      "fullbacks": "Full-Back"
+    }
+  },
+  "Celtic": {
+    "league": "Scotland",
+    "id": 1569,
+    "tactics": {
+      "formation": "433",
+      "height": 60,
+      "length": 60,
+      "width": 60,
+      "pressing": "Balanced Pressure",
+      "marking": "Zonal Marking",
+      "timeWasting": false,
+      "offsideTrap": false,
+      "offensiveStyle": "Possession",
+      "transition": "Medium",
+      "corners": 9,
+      "fullbacks": "Full-Back"
+    }
+  },
+  "Young Boys": {
+    "league": "Switzerland",
+    "id": 1847,
+    "tactics": {
+      "formation": "41212",
+      "height": 30,
+      "length": 60,
+      "width": 70,
+      "pressing": "Constant Pressure",
+      "marking": "Zonal Marking",
+      "timeWasting": false,
+      "offsideTrap": false,
+      "offensiveStyle": "Long Ball",
+      "transition": "Medium",
+      "corners": 7,
+      "fullbacks": "Inverted Wing-Back"
+    }
+  },
+  "Galatasaray": {
+    "league": "Turkey",
+    "id": 1871,
+    "tactics": {
+      "formation": "4231",
+      "height": 55,
+      "length": 40,
+      "width": 60,
+      "pressing": "Constant Pressure",
+      "marking": "Zonal Marking",
+      "timeWasting": false,
+      "offsideTrap": false,
+      "offensiveStyle": "Direct Passing",
+      "transition": "Medium",
+      "corners": 6,
+      "fullbacks": "Inverted Wing-Back"
+    }
+  },
+  "FC Kobenhavn": {
+    "league": "Denmark",
+    "id": 505,
+    "tactics": {
+      "formation": "433",
+      "height": 60,
+      "length": 60,
+      "width": 60,
+      "pressing": "Balanced Pressure",
+      "marking": "Zonal Marking",
+      "timeWasting": false,
+      "offsideTrap": false,
+      "offensiveStyle": "Possession",
+      "transition": "Slow",
+      "corners": 7,
+      "fullbacks": "Full-Back"
+    }
+  },
+  "Saudi All-Star": {
+    "league": "Saudi League",
+    "id": 106780,
+    "tactics": {
+      "formation": "3142",
+      "height": 65,
+      "length": 55,
+      "width": 80,
+      "pressing": "Balanced Pressure",
+      "marking": "Zonal Marking",
+      "timeWasting": false,
+      "offsideTrap": true,
+      "offensiveStyle": "Wing Play",
+      "transition": "Fast",
+      "corners": 8,
+      "fullbacks": "Wing-Back"
+    }
+  },
+  "Inter Miami": {
+    "league": "MLS",
+    "id": 72052048,
+    "tactics": {
+      "formation": "433",
+      "height": 65,
+      "length": 70,
+      "width": 40,
+      "pressing": "Balanced Pressure",
+      "marking": "Man Marking",
+      "timeWasting": false,
+      "offsideTrap": false,
+      "offensiveStyle": "Possession",
+      "transition": "Slow",
+      "corners": 8,
+      "fullbacks": "Wing-Back"
+    }
+  }
+}
